@@ -1,0 +1,9 @@
+C:\Users\Sedanur\source\repos\servis\servis\obj\Debug\servis.csprojResolveAssemblyReference.cache
+C:\Users\Sedanur\source\repos\servis\servis\obj\Debug\servis.csproj.CoreCompileInputs.cache
+C:\Users\Sedanur\source\repos\servis\servis\bin\servis.dll.config
+C:\Users\Sedanur\source\repos\servis\servis\bin\servis.dll
+C:\Users\Sedanur\source\repos\servis\servis\bin\servis.pdb
+C:\Users\Sedanur\source\repos\servis\servis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sedanur\source\repos\servis\servis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sedanur\source\repos\servis\servis\obj\Debug\servis.dll
+C:\Users\Sedanur\source\repos\servis\servis\obj\Debug\servis.pdb
